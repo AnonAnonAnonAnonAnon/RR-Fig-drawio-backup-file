@@ -1,6 +1,5 @@
-RR's drawio diagram projects; 
-head.drawio is the header figure; 
-main.drawio is the main figure; 
-infer.drawio is the inference flowchart; 
-join.drawio is the flowchart for adding new policy;
-feedback.drawio is the online feedback flowchart
+RR's drawio file backup
+
+It is a product of a certain point in time and is no longer in use.
+
+Created only as a backup of the project's historical files, it has no other meaning and does not represent anything.
